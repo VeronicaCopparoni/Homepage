@@ -1,15 +1,48 @@
 <html>
-  <head>
+<head>
+<style>
+h1 {
+  color: black; 
+  font-family: Times new Roman;
+  font-size: 300%;
+  background-color: violet;
+  text-align: center
+
  
-<title>Project</title>
-<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+
+
+
+}
+p {
+  color: black;
+  font-family: calibri;
+  font-size: 160%;
+  text-align: center
+
+ 
+
+}
+</style>
+
+ 
+
+ 
+
 </head>
 <body>
-<h1 style="text-align:center;"><i>MUSIC</i></h1>
 
-<p>we are student who are working on a project.</p>
-<h1 style="background-color:DodgerBlue;">Hello World</h1>  
+ 
+
+<h1>Discover the Magic of Music</h1>
+<p>If your interested in music, let's took a look at our Melody stories!</p>
+
+ 
+
+</body>
+</html>
+
 <ul>
-  <li><a href="https://veronicacopparoni.github.io/Homepage">Home</a></li>
+  <li><a href="https://veronicacopparoni.github.io">Home</a></li>
   <li><a href="https://veronicacopparoni.github.io/ourproject">News</a></li>
 </ul>

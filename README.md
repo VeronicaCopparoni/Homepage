@@ -12,6 +12,4 @@
 <ul>
   <li><a href="https://veronicacopparoni.github.io/Homepage">Home</a></li>
   <li><a href="https://veronicacopparoni.github.io/ourproject">News</a></li>
-  <li><a href="contact.asp">Contact</a></li>
-  <li><a href="about.asp">About</a></li>
 </ul>

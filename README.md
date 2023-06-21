@@ -1,13 +1,12 @@
-# VeronicaCopparoni.github.io
 <!DOCTYPE html>
 <html>
 <head>
-<title> Page Title </title>
+<title>Page Title</title>
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+ 
 
-</body>
-</html>
+<h1>MUSIC!!!!!!!</h1>
+<p>we are student who are working on a project.</p>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>  

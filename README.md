@@ -101,16 +101,7 @@ p {
  
 
 </head>
-<body>
 
- 
-
-<h1>Discover the Magic of Music</h1>
-<p>If your interested in music, let's took a look at our Melody stories!</p>
-
- 
-
-</body>
 </html>
 
 <ul>

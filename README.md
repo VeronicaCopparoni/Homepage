@@ -1,6 +1,7 @@
 <html>
 <head>
-<title>Page Title</title>
+<title>Project</title>
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
 <body>
 

@@ -43,6 +43,6 @@ p {
 </html>
 
 <ul>
-  <li><a href="https://veronicacopparoni.github.io">Home</a></li>
+  <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/ourproject">News</a></li>
 </ul>

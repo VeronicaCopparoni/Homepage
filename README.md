@@ -303,7 +303,7 @@ h4 {
 
 <div class="footer">
 
-  <p style="font-size:100%" > © Copyright. Discover the magic of music. All rights reserved.</p>
+  <p style="font-size:100%" > © Copyright. Discover the Magic of Music. All rights reserved.</p>
   
   <p style= "font-size:100%"> Powered by GitHub.</p>
 

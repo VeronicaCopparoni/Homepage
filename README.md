@@ -64,7 +64,7 @@ cite {
 h4 {
     position: absolute;
     color: #eee;
-    font: bold 30px Georgia;
+    font: bold 26px Georgia;
     padding:10px;       
     top: 100px;
     left: 10px;

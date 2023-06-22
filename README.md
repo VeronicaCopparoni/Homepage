@@ -301,13 +301,14 @@ h4 {
 <br>
 
 
-
 <div class="footer">
 
-  <p>© Copyright. Discover the Magic of Music. All rights reserved.</p>
-  <p>Powered by GitHub.</p>
+  <p style="font-size:100%" > © Copyright. Discover the magic of music. All rights reserved.</p>
+  
+  <p style= "font-size:100%"> Powered by GitHub.</p>
 
 </div>
+
  
 
 

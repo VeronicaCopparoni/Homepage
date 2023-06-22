@@ -6,7 +6,7 @@ h1 {
   font-family: Times new Roman;
   font-size: 300%;
   font-style: italic;
-  background-color: pink;
+  border:4px solid violet;
   text-align: center
 
 }

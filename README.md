@@ -64,11 +64,14 @@ cite {
 h4 {
     position: absolute;
     color: #eee;
-    font: bold 26px Georgia;
+    font: bold 35px Georgia;
     padding:10px;       
     top: 100px;
     left: 10px;
     width: 100%;
+    font-style: italic;
+    background-color: purple;
+    
 }
 
 </style>
@@ -95,6 +98,7 @@ h4 {
 <h4>Best Female Music Artists<br/> A story written by Tatiana and Veronica</h4>
 </div>
 </div>
+
 
 
 <br>

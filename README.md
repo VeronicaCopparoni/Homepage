@@ -66,7 +66,7 @@ h4 {
 <img src="https://img.freepik.com/free-photo/carefree-beautiful-girl-perform-song-singing-microphone-with-passion-playing-karaoke-standing-blue-background_1258-118069.jpg?size=626&ext=jpg&ga=GA1.2.1553036408.1687426675&semt=ais" weight="400" height="400"/>
 
 
->     
+
 <h4>Best Female Music Artists<br/> A story written by Tatiana and Veronica</h4>
 </div>
 </div>

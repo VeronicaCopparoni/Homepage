@@ -69,7 +69,7 @@ h4 {
     top: 100px;
     left: 10px;
     right: 10px;
-    width: 100%;
+    width: 90%;
     font-style: italic;
     background-color: purple;
     

@@ -15,7 +15,7 @@ h1 {
 p {
   color: black;
   font-family: calibri;
-  font-size: 300%;
+  font-size: 200%;
   text-align: center
 
 }
@@ -63,7 +63,7 @@ h4 {
 
 <div align="center">
 <div class="text-overlay">
-<img src="https://media.istockphoto.com/id/1306453982/photo/portrait-of-young-female-singer-isolated-on-blue-pink-background.jpg?s=612x612&w=0&k=20&c=cxl5QkpzNYfX9KtSkqZXSfgrltfJd6QQ4dJBuF5h-co=" weight="3500" height="400"/>
+<img src="https://media.istockphoto.com/id/1306453982/photo/portrait-of-young-female-singer-isolated-on-blue-pink-background.jpg?s=612x612&w=0&k=20&c=cxl5QkpzNYfX9KtSkqZXSfgrltfJd6QQ4dJBuF5h-co=" weight="700" height="400"/>
 
 
 >     

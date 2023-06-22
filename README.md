@@ -6,7 +6,7 @@ h1 {
   font-family: Times new Roman;
   font-size: 300%;
   font-style: italic;
-  background-color: violet;
+  background-color: pink;
   text-align: center
 
 }
@@ -14,8 +14,8 @@ h1 {
 
 p {
   color: black;
-  font-family: calibri;
-  font-size: 300%;
+  font-family: Times News Romans;
+  font-size: 200%;
   text-align: center
 
 }
@@ -72,25 +72,6 @@ h4 {
 </div>
 
 
-<html>
-<head>
-<style>
-h1 {
-  color: black; 
-  font-family: Times new Roman;
-  font-size: 300%;
-  background-color: lightpink;
-  text-align: center
-
-}
-p {
-  color: black;
-  font-family: Times News Roman;
-  font-size: 130%;
-  text-align: center
-
-}
-</style>
 
 <br>
 <br>
@@ -109,5 +90,7 @@ p {
   <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/Reports">Our Reports</a></li>
 </ul>
+
+
 
 

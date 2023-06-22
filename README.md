@@ -14,7 +14,7 @@ h1 {
 
 p {
   color: black;
-  font-family: calibri;
+  font-family: Times New Romans;
   font-size: 200%;
   text-align: center
 
@@ -109,4 +109,6 @@ p {
   <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/Reports">Our Reports</a></li>
 </ul>
+
+
 

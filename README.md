@@ -63,16 +63,15 @@ cite {
 }
 h4 {
     position: absolute;
-    color: #eee;
-    font: bold 20px Georgia;
+    color: white;
+    font: bold 25px Georgia;
     padding:10px;       
     top: 100px;
-    left: 10px;
-    right: 10px;
-    width: 90%;
+    left: 100px;
+    right: 100px;
+    width: 80%;
     font-style: italic;
-    background-color: purple;
-    
+    background-color: violet 
 }
 
 </style>

@@ -15,7 +15,7 @@ h1 {
 p {
   color: black;
   font-family: Times New Romans;
-  font-size: 200%;
+  font-size: 350%;
   text-align: center
 
 }

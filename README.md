@@ -63,7 +63,7 @@ h4 {
 
 <div align="center">
 <div class="text-overlay">
-<img src="https://img.freepik.com/free-photo/young-caucasian-musicians-band-performing-neon-light-gradient-studio_155003-42999.jpg?size=626&ext=jpg&ga=GA1.2.1553036408.1687426675&semt=ais" weight="400" height="400"/>
+<img src="https://img.freepik.com/free-photo/carefree-beautiful-girl-perform-song-singing-microphone-with-passion-playing-karaoke-standing-blue-background_1258-118069.jpg?size=626&ext=jpg&ga=GA1.2.1553036408.1687426675&semt=ais" weight="400" height="400"/>
 
 
 >     

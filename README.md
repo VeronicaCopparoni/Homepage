@@ -14,8 +14,8 @@ h1 {
 
 p {
   color: black;
-  font-family: Times New Romans;
-  font-size: 200%;
+  font-family: calibri;
+  font-size: 300%;
   text-align: center
 
 }
@@ -63,7 +63,7 @@ h4 {
 
 <div align="center">
 <div class="text-overlay">
-<img src="https://media.istockphoto.com/id/1306453982/photo/portrait-of-young-female-singer-isolated-on-blue-pink-background.jpg?s=612x612&w=0&k=20&c=cxl5QkpzNYfX9KtSkqZXSfgrltfJd6QQ4dJBuF5h-co=" weight="700" height="400"/>
+<img src="https://www.freewebheaders.com/wp-content/gallery/music/illustrative-semi-acoustic-guitar-on-pink-background-header.jpg" weight="400" height="400"/>
 
 
 >     
@@ -109,8 +109,4 @@ p {
   <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/Reports">Our Reports</a></li>
 </ul>
-
-
-
-
 

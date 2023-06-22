@@ -32,6 +32,8 @@ p {
 
 <p>If you are into music, this is the right place for you! Here, you have the possibility to look at three incredible stories about music, so... Enjoy!</p>
 
+
+
 </body>
 </html>
 <html>
@@ -53,6 +55,16 @@ h4 {
 }
 
 </style>
+
+<stile>
+
+
+</stile>
+
+<q> My legacy is that I stayed on course… from the beginning to the end, because I believed in something inside of me.
+~Tina Turner (sample) </q>
+
+
 
 <br>
 <br>
@@ -90,6 +102,7 @@ h4 {
   <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/Reports">Our Reports</a></li>
 </ul>
+
 
 
 

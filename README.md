@@ -21,11 +21,12 @@ p {
 
 }
 
-q {
+cite {
   color: black; 
-  font-style: italic; 
+  font-style: Italic; 
   text-align: center;
-  font-weight: bold ; 
+  font-weight: bold; 
+  font-size:70%
 
 
 </style>
@@ -45,7 +46,7 @@ q {
 <br>
 <br>
 
-<q> Music can change the world -  Beethoven (sample) </q>
+<p><cite> Music can change the world -  Ludwig van Beethoven (sample) </cite>
 
 
 </body>
@@ -112,5 +113,3 @@ h4 {
   <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/Reports">Our Reports</a></li>
 </ul>
-
-

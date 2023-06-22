@@ -52,8 +52,7 @@ cite {
 
 
 
-</body>
-</html>
+
 <html>
 <head>
 

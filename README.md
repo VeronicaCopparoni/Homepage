@@ -17,8 +17,17 @@ p {
   font-family: Times News Romans;
   font-size: 170%;
   text-align: center
+ 
 
 }
+
+q {
+  color: black; 
+  font-style: italic; 
+  text-align: center;
+  font-weight: bold ; 
+
+
 </style>
 
 </head>
@@ -32,6 +41,11 @@ p {
 
 <p>If you are into music, this is the right place for you! Here, you have the possibility to look at three incredible stories about music, so... Enjoy!</p>
 
+<br>
+<br>
+<br>
+
+<q> Music can change the world -  Beethoven (sample) </q>
 
 
 </body>
@@ -61,10 +75,6 @@ h4 {
 
 </stile>
 
-<q> My legacy is that I stayed on course… from the beginning to the end, because I believed in something inside of me.
-~Tina Turner (sample) </q>
-
-
 
 <br>
 <br>
@@ -76,6 +86,7 @@ h4 {
 <div align="center">
 <div class="text-overlay">
 <img src="https://i.pinimg.com/564x/bc/98/18/bc98186d61994d87392f0e8fd4465fb3.jpg" weight="400" height="400"/>
+
 
 
 <h4>Best Female Music Artists<br/> A story written by Tatiana and Veronica</h4>
@@ -101,9 +112,5 @@ h4 {
   <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/Reports">Our Reports</a></li>
 </ul>
-
-
-
-
 
 

@@ -68,6 +68,7 @@ h4 {
     padding:10px;       
     top: 100px;
     left: 10px;
+    right: 10px;
     width: 100%;
     font-style: italic;
     background-color: purple;

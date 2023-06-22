@@ -101,14 +101,111 @@ h4 {
 
 
 
+---------------------------------------
+
+
+<style>
+.text-overlay {
+    position: relative;   
+    width: 100%;  
+}
+h4 {
+    position: absolute;
+    color: white;
+    font: bold 25px Georgia;
+    padding:10px;       
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    width: 80%;
+    font-style: italic;
+    background-color:violet
+}
+
+</style>
+
+<stile>
+
+
+</stile>
+
+
 <br>
 <br>
 <br>
 <br>
 <br>
+
+
+<div align="center">
+<div class="text-overlay">
+<img src="https://i.pinimg.com/originals/f3/a5/3d/f3a53db91f62c0e3c0d1f37f050db342.png" weight="400" height="400"/>
+
+
+
+<h4>Rock<br/> A story written by </h4>
+</div>
+</div>
+
+--------------------------------
+
+
+
+<style>
+.text-overlay {
+    position: relative;   
+    width: 100%;  
+}
+h4 {
+    position: absolute;
+    color: white;
+    font: bold 25px Georgia;
+    padding:10px;       
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    width: 80%;
+    font-style: italic;
+    background-color:violet
+}
+
+</style>
+
+<stile>
+
+
+</stile>
+
+
 <br>
 <br>
 <br>
+<br>
+<br>
+
+
+<div align="center">
+<div class="text-overlay">
+<img src="https://i.pinimg.com/564x/94/86/66/948666563cc2cd381940f08f63e2c47e.jpg" weight="400" height="400"/>
+
+
+
+<h4>Vinili<br/> A story written by </h4>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
 
 </head>
 

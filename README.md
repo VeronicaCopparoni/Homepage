@@ -78,7 +78,6 @@ h4 {
 <img src="https://i.pinimg.com/564x/bc/98/18/bc98186d61994d87392f0e8fd4465fb3.jpg" weight="400" height="400"/>
 
 
-
 <h4>Best Female Music Artists<br/> A story written by Tatiana and Veronica</h4>
 </div>
 </div>

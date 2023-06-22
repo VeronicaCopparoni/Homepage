@@ -6,10 +6,10 @@ h1 {
   font-family: Times new Roman;
   font-size: 300%;
   font-style: italic;
-  border:2px solid violet;
-  text-align: center
-
+  text-align: center;
+  background-color:hsl(300, 50%, 90%);
 }
+
 
 
 p {
@@ -71,7 +71,7 @@ h4 {
     right: 100px;
     width: 80%;
     font-style: italic;
-    background-color: violet 
+    background-color:violet
 }
 
 </style>

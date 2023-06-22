@@ -304,7 +304,7 @@ h4 {
 
 <div class="footer">
 
-  <p>© Copyright. Discover the magic of music. All rights reserved.</p>
+  <p>© Copyright. Discover the Magic of Music. All rights reserved.</p>
   <p>Powered by GitHub.</p>
 
 </div>

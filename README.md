@@ -1,5 +1,115 @@
+
 <html>
+
 <head>
+
+<title>Project</title>
+
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+* {
+
+  box-sizing: border-box;
+
+}
+
+ 
+
+body {
+
+  margin: 0;
+
+}
+
+
+.header {
+
+float: centre ;
+
+text-align: center;
+
+}
+
+ 
+
+.h1 {
+
+text-align: centre ; }
+
+ 
+
+.topnav {
+
+  overflow: hidden;
+
+  background-color: #333;
+
+}
+
+ 
+
+.topnav a {
+
+  float: left;
+
+  display: block;
+
+  color: #f2f2f2;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+}
+
+.footer {
+
+  padding: 20px;
+
+  text-align: center;
+
+  background: #ddd;
+
+  margin-top: 20px;
+
+}
+
+ 
+</style>
+
+</head>
+
+<body>
+
+<div class="header">
+
+<h1>Discover the Magic of Music</h1>
+
+</div>
+
+
+<div class="topnav">
+
+  <a href="https://veronicacopparoni.github.io/Homepage">Home</a>
+
+  <a href="https://veronicacopparoni.github.io/Best-female-music-artists">Best female music artists</a>
+
+  <a href="https://veronicacopparoni.github.io/Reports/">Reports</a>
+
+</div>
+
+  <div class="footer">
+
+  <p>Footer</p>
+
+</div>
+
 <style>
 h1 {
   color: black; 
@@ -7,7 +117,7 @@ h1 {
   font-size: 300%;
   font-style: italic;
   text-align: center;
-  background-color:hsl(300, 50%, 90%);
+  background-color:lightblue;
 }
 
 
@@ -71,7 +181,8 @@ h4 {
     right: 100px;
     width: 80%;
     font-style: italic;
-    background-color:violet
+    background-color:violet;
+   
 }
 
 </style>
@@ -143,7 +254,7 @@ h4 {
 
 
 
-<h4>Rock<br/> A story written by </h4>
+<h4>Rock<br/> A story written by Camilla and Ilaria </h4>
 </div>
 </div>
 
@@ -190,7 +301,7 @@ h4 {
 
 
 
-<h4>Vinili<br/> A story written by </h4>
+<h4>Vinili<br/> A story written by Elena and Iryna </h4>
 </div>
 </div>
 
@@ -215,3 +326,8 @@ h4 {
   <li><a href="https://veronicacopparoni.github.io/Best-women-in-music">Best women in music</a></li>
   <li><a href="https://veronicacopparoni.github.io/Reports">Our Reports</a></li>
 </ul>
+
+ 
+
+
+

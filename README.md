@@ -15,7 +15,7 @@ h1 {
 p {
   color: black;
   font-family: Times News Romans;
-  font-size: 200%;
+  font-size: 170%;
   text-align: center
 
 }
